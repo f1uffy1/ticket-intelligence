@@ -2,7 +2,7 @@
 
 A Python script I built to analyze help desk ticket data and generate a weekly PDF report. 
 
-I noticed there was never any visibility into ticket trends at places I've worked — you'd just 
+I noticed there was never any visibility into ticket trends at places I've worked, you'd just 
 respond to whatever came in with no real way to see patterns. Wanted to build something that 
 could answer questions like "what keeps breaking?" and "why does it take so long to fix X?"
 
