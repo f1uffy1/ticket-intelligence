@@ -26,5 +26,5 @@ flying blind and a simple report like this could actually change how a team prio
 
 ## sample output
 
-[Ticket_Intelligence_Report.pdf](file:///C:/Users/Admin/Downloads/Ticket_Intelligence_Report%20(2).pdf)
+[View Full Report (PDF)](https://drive.google.com/file/d/1rkjdRuz5X1AfAD0tY6g8Jxdi53ZgUoRQ/view?usp=sharing)
 
